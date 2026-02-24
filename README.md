@@ -8,7 +8,7 @@ Computer Science Engineering student with strong academic performance and a keen
 - Building responsive applications using Power Apps
 
 ## Experience
-- Intern at ELGi Equipments Limited
+- Intern – ELGi Equipments Limited (Application Development – Power Apps)
 
 ## Academic Background
 - B.E. Computer Science Engineering  
@@ -16,5 +16,5 @@ Computer Science Engineering student with strong academic performance and a keen
 
 ## Goals
 - Improve algorithmic thinking
-- Participate in national-level coding challenges
+- Compete in national-level coding challenges (e.g., algorithmic competitions)
 - Build a strong technical foundation
