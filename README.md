@@ -1,4 +1,4 @@
-# Hi, I'm Sakura Fushiguro
+# Hi, I'm Deepika
 
 Computer Science Engineering student with strong academic performance and a keen interest in algorithmic problem solving.
 
