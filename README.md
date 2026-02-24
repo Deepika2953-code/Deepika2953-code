@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sakura Fushiguro
 
-<!--
-**Deepika2953-code/Deepika2953-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student with strong academic performance and a keen interest in algorithmic problem solving.
 
-Here are some ideas to get you started:
+## Current Focus
+- Strengthening Python fundamentals
+- Practicing structured problem solving
+- Building responsive applications using Power Apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- Intern at ELGi Equipments Limited
+
+## Academic Background
+- B.E. Computer Science Engineering  
+- Semester GPA: 9.13 / 10
+
+## Goals
+- Improve algorithmic thinking
+- Participate in national-level coding challenges
+- Build a strong technical foundation
